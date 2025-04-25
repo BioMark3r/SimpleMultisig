@@ -41,3 +41,7 @@ Approvals are not revocable
 No signer management (adding/removing)
 
 No gas optimization beyond basic best practices
+
+![Tests](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/actions/workflows/ci.yml/badge.svg)
+[![Coverage Status](https://img.shields.io/badge/coverage-dynamic-success)](#) <!-- You can update this dynamically later -->
+
